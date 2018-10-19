@@ -76,6 +76,7 @@
     perfprofd_service
     pocket_service
     property_info
+    sdcard_posix
     secure_element
     secure_element_device
     secure_element_service
