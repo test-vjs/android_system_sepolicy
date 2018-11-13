@@ -1,4 +1,5 @@
-;; new_objects - a collection of types that have been introduced that have no
+;; new_objects - a collection of types that have been introduced that 
+have no
 ;;   analogue in older policy.  Thus, we do not need to map these types to
 ;;   previous ones.  Add here to pass checkapi tests.
 (typeattribute new_objects)
@@ -56,6 +57,7 @@
     hal_usb_gadget_hwservice
     hal_vehicle_hwservice
     hal_wifi_hostapd_hwservice
+    rrfont_service
     incident_helper
     incident_helper_exec
     last_boot_reason_prop

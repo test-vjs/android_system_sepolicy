@@ -249,6 +249,7 @@
 (typeattributeset hal_wifi_supplicant_hwservice_26_0 (hal_wifi_supplicant_hwservice))
 (typeattributeset hardware_properties_service_26_0 (hardware_properties_service))
 (typeattributeset hardware_service_26_0 (hardware_service))
+(typeattributeset rrfont_service_26_0 (rrfont_service))
 (typeattributeset hci_attach_dev_26_0 (hci_attach_dev))
 (typeattributeset hdmi_control_service_26_0 (hdmi_control_service))
 (typeattributeset healthd_26_0 (healthd))
